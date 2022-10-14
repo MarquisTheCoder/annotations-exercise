@@ -1,6 +1,8 @@
 # Intellij
 .idea
 *.iml
+./out*
+./out
 
 # MAC
 **/.DS_Store
